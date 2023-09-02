@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* Navigation Bar*/
+.nav{
+    justify-content: space-between;
+    width: 1550px;
+    margin-top: 5px;
+    margin-bottom: 220px;
+}
+.nav h3{
+    margin-left: 50px;
+    font-weight: 325;
+}
+.nav h3:hover{
+    cursor: pointer;
+}
+.nav table{
+    font-size: 20px;
+}
+.nav table tr td a{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+}
+.nav table tr td a:hover{
+   border-bottom: 1px solid red;
+}
+
+/* Mid Title*/
+.title{
+    margin-bottom: 300px;
+}
+.title h1{
+    font-size: 100px;
+    margin-left: 35px;
+    margin-bottom: 0px;
+}
+.title h2{
+    margin-top: -15px;
+    margin-left: 575px;
+}
+
+/* Products Showup*/
+.card{
+    border: 1px solid skyblue;
+    margin-bottom: 150px;
+    margin-left: 50px;
+}
+.card:hover{
+    border: 1px solid black;
+}
+
+/*Sign In & Login In*/
+.get{
+    height: 240px;
+    width: 1200px;
+    border-radius: 20px;
+    background-color: rgb(121, 183, 219);
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+.get:hover{
+    background-color: rgb(115, 178, 214);
+}
+.raj{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.butn{
+    margin-left: 100px;
+    margin-top: 145px;
+}
+.butn a{
+    text-decoration: none;
+    color: black    ;
+}
+.butn a:hover{
+    color: white;
+}
+
+.sdiv{
+    height: 520px;
+    width: 550px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 340px;
+    margin-top: 90px;
+}
+.raj1{
+    height: 450px;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 360px;
+}
+
+.expo{
+        height: 692px;
+        width: 1120px;
+        border: 1px solid black;
+        border-radius: 20px;
+        margin-top: 120px;
+        margin-bottom: 50px;
+        margin-left: 80px;
+        display: flex;
+        background-color: whitesmoke;
+}
+.expo:hover{
+    border: 1px solid skyblue;
+}
+
